@@ -1,15 +1,4 @@
-BytesWarning BOOT SyntaxWarning with Warning enumerate quit
-setup bin (BIOS) set exec
-setattr StopAsyncIteration System
-set setattr elif UEFI exec SyntaxWarning'SyntaxWarning
-
-
-
-
-
-
-
-({
+{
   "_type": "export",
   "__export_format": 4,
   "__export_date": "2026-05-24T21:38:51.271Z",
@@ -415,80 +404,4 @@ set setattr elif UEFI exec SyntaxWarning'SyntaxWarning
       "_type": "request"
     }
   ]
-})
-(WQ
-BufferErrorWQF
-QWR
-HQF
-hasattrQWHR
-QERHF
-QER
-HQ
-RH
-EAQBRF
-AWQF
-AQWF
-HJQA
-FHAE
-HR
-quitJWE
-JTWE
-JRWEQ
-JRT
-4WE
-HJRQ
-KeyErrorQ23G1
-5G23
-
-HRTJ423
-5Y3
-42J6
-A4W
-RGBQ
-EB
-h5Q
-G4Q
-V412
-4g1
-B
-
-
-  V
-    QE21
-      3g
-          w
-          
-            H13Q2
-            4HG23
-            B w
-
-            5ne5
-            skz
-            ;pu''
-            'xz[+_+WQ=3'
-            '64=3A'
-            '5-23
-            52=4
-            566
-            2-5
-            2-
-            52=
-            73-=5
-            A3=
-            1-
-            4g-q10n
-            0;q36
-            k9032q
-            i532=5
-            23-06
-            3-
-            6A=A-
-            -==
-            =5
-            q4=
-            A-
-            -
-
-            344
-            while41
-            Q4e42 234')
+}

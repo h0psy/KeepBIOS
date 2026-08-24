@@ -1,6 +1,9 @@
 MemoryError
 BIOS_dont_reinstaled
 BIOS_chip_error
+BIOS_chip_error_abpx_off_administrator
+MemoryError abs not reversed
+scan_error
 (scan KeyError TabError TypeError)
 1 error: EOFError "t" and (Error Output) — stop and display selection
 ("M" MemoryError, please press "M" To reset your memory)
