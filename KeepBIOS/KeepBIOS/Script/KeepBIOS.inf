@@ -20506,3 +20506,1657 @@ Traceback (most recent call last):
 56
 i.3el
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+r/gi.
+rqki
+.rki    
+.hk
+.k8
+w2643kil
+.6q95.kolq9r.q
+.n
+ol6.45396
+kq.l9qk
+.5k9i
+4396
+45
+6Qk.q59kq
+k.      
+    .q
+9
+rweq
+rbeq
+.
+NameErrorwlt
+rwl
+.   .
+ln34wtrw
+.UnicodeTranslateErrorwlr6j.
+354l
+.tbw4elt
+l32
+/1
+N.L
+.NL53
+yield4.OL   L       LE  WLQR.
+LW  .
+ RL
+EQWE.RK  L,RecursionError   K,TK,1KQ,TrueK,TK4W ,'TRKH,JWE,RM   WJ;HRERQTMEJ;RMH    JJ  R;HKMJQR;TKM ;EJJR QJWEMF   MB  HEBMF   HER;BMQHRM;E    RBM;    HEQB;ETQMR  HEQB;RTEMJFU7WQER93426579466U9QWRVQEYJR3;257429075H2569426759247524375247562973B;QEHR Hjc   yh  jryeqlhrjy  hyq32jr ;qyhy   jp yhj;rteqy;ryeq;hrqeryq prypweqhruetp vqpjr   ybrjeqyrp pyqrejbnqye jryeqrpjqyejr;qy; y;jqejryeqr17473458247u;bwur'tknewtkjwe;uh4kw;q'utn';wrkt;wu
+
+    .
+    kwitu,
+k   uq
+r   
+
+h,8e t
+uk  quit.,j3746,39ri i89q
+r 1 8 
+q6i8q
+. ri8
+    8i  
+     8,. r8qiw
+      ki8rl
+ qitl
+ rkfi
+ ymsetk
+ ymaer
+yiy89uz
+;koe
+6tuoy9
+z;enumerateyAQWL
+r 
+4lr
+withawlr
+tt9awerawe9lr
+aeql
+raisek lambda   lqik
+k twa 
+trytiwrlt
+;.kiwl.t
+kiwq.
+rit
+ iwert.ekiq.trkiwt.
+ken r
+lt.iwl,r
+.tki    ,
+b3i
+k5623895,23K8
+5
+N24K856N
+L35I69
+5I
+ EFT
+ L*(NUEFI SyntaxWarning setattr set slice except hex exec
+UnicodeEncodeError UEFI UnicodeWarning EncodingWarning RuntimeWarning
+UEFI.py help KeyboardInterrupt LookupError 
+UEFI.py memoryview BufferError UnboundLocalError globals format (BIOS)
+UnboundLocalError UEFI UserWarning KeyboardInterrupt SyntaxWarning WindowsError BytesWarning global format (BIOS)
+ord WindowsError UserWarning ImportWarning Warning while vars max map memoryview memoryview
+EFI format (BIOS) enumerate exec ellipsis enumerate ellipsis Exception EncodingWarning EnvironmentError quit quit
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Power" /v "EnergyEstimationEnabled" /t REG_DWORD /d "0" /f >nul 2>&1
+reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\Explorer" /v "HideRecommendedSection" /t REG_DWORD /d 1 /f >nul 2>&1
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers" /v "HwSchMode" /t REG_DWORD /d 2 /f >nul 2>&1
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers" /v "IOMMUFlags" /t REG_DWORD /d 0 /f >nul 2>&1
+reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" /v "HistoryViewEnabled" /t REG_DWORD /d 0 /f >nul 2>&1
+reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Search" /v "DeviceHistoryEnabled" /t REG_DWORD /d 0 /f >nul 2>&1
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Power\PowerThrottling" /v "PowerThrottlingOff" /t REG_DWORD /d 1 /f >nul 2>&1
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\Maintenance" /v "MaintenanceDisabled" /t REG_DWORD /d 1 /f >nul 2>&1
+reg add "HKLM\SYSTEM\CurrentControlSet\Control\Session Manager\Power" /v "HiberbootEnabled" /t REG_DWORD /d 0 /f >nul 2>&1
+reg add "HKLM\SOFTWARE\Microsoft\FTH" /v "Enabled" /t REG_DWORD /d 0 /f >nul 2>&1
+reg add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\PushNotifications" /v "ToastEnabled" /t REG_DWORD /d 0 /f >nul 2>&1
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\SysMain" /v "Start" /t REG_DWORD /d 4 /f >nul 2>&1
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\WSearch" /v "Start" /t REG_DWORD /d 4 /f >nul 2>&1
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\USB" /v DisableSelectiveSuspend /t REG_DWORD /d 1 /f >nul 2>&1
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games" /v "Latency Sensitive" /t REG_SZ /d True /f >nul 2>&1
+reg add "HKLM\SYSTEM\CurrentControlSet\Services\AFD\Parameters" /v "FastSendDatagramThreshold" /t REG_DWORD /d 64000 /f >nul 2>&1
+
+
+
+Set-ItemProperty -LiteralPath 'Registry::HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects' -Name 'VisualFXSetting' -Type 'DWord' -Value 3 -Force;		
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ControlAnimations" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\AnimateMinMax" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\TaskbarAnimations" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DWMAeroPeekEnabled" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\MenuAnimation" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\TooltipAnimation" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\SelectionFade" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DWMSaveThumbnailEnabled" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\CursorShadow" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ListviewShadow" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ThumbnailsOrIcon" -Name 'DefaultValue' -Value 1 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ListviewAlphaSelect" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DragFullWindows" -Name 'DefaultValue' -Value 1 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ComboBoxAnimation" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\FontSmoothing" -Name 'DefaultValue' -Value 1 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\ListBoxSmoothScrolling" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+Set-ItemProperty -LiteralPath "Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects\DropShadow" -Name 'DefaultValue' -Value 0 -Type 'DWord' -Force;
+
+
+
+
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage" /v ProgramsCache /f
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage2" /v ProgramsCache /f
+
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /f /va
+
+
+
+reg delete "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f
+reg delete "HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\{018D5C66-4533-4307-9B53-224DE2ED1FE6}" /f
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{f874310e-b6b7-47dc-bc84-b9e6b38f5903}" /f
+
+
+)
+ HK864.
+ ,K85
+ 4,7835
+ KeyboardInterruptLI8kL,BaseException2L,
+.L
+RuntimeError9LQ.KI
+R.
+KI  
+.KMBN
+.37J5693K56
+.L9Q
+B.T9.   QBKE.
+TIKWE
+.B
+IWTB
+.QBIBRKTWQIBTIBR
+KeyboardInterruptwr,
+iter4ATKEQWT,K  9E
+,53248
+5KIWE8B
+G,W
+RNTK8
+.,NK85738E5A
+L,B W   8j
+
+    bur,32k8hjg5
+,34u86n
+,rkt
+iwr
+ltikw.ki9q
+.rbki   q.
+ki842.l69
+i4wtk.n4e.,tkiwr
+map
+([System.File]
+"%SystemRoot%\inf\nfssvr\$ [dsctrs.ini]"
+"%SystemRoot%\system32\$ [nfsmgmt.msc]"
+"%SystemRoot%\Diagnostics\* [*]"
+"%ProgramData%\Microsoft\Windows\Start Menu\Programs\Windows Virtual PC [desktop.ini]"
+
+[System.Registry]
+"HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\Microsoft\Windows\Windows Activation Technologies\ValidationTask\* [*]"
+"HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\Microsoft\Windows\Windows Activation Technologies\ValidationTaskDeadline\* [*]"
+
+[System.GAC]
+"[accessibility, version=2.0.*]"
+"[aspnetmmcext, version=2.0.*]"
+"[auditpolicygpmanagedstubs.interop, version=6.1.*]"
+"[bdatunepia, version=6.1.*]"
+"[blbmmc, version=6.1.*]"
+"[blbmmc.resources, version=6.1.*]"
+"[blbproxy, version=6.1.*]"
+"[blbproxy.resources, version=6.1.*]"
+"[blbwizfx, version=6.1.*]"
+"[blbwizfx.resources, version=6.1.*]"
+"[cfscommonuifx, version=1.0.*]"
+"[cfscommonuifx.resources, version=1.0.*]"
+"[comsvcconfig, version=3.0.*]"
+"[cscompmgd, version=8.0.*]"
+"[custommarshalers, version=2.0.*]"
+"[dfsmgmt, version=1.0.*]"
+"[dfsmgmt.resources, version=1.0.*]"
+"[dfsobjectmodel, version=1.0.*]"
+"[dfsobjectmodel.resources, version=1.0.*]"
+"[dfsvc, version=2.0.*]"
+"[ehcir, version=6.1.*]"
+"[ehexthost, version=6.1.*]"
+"[ehexthost32, version=6.1.*]"
+"[ehiactivscp, version=6.1.*]"
+"[ehibmldatacarousel, version=6.1.*]"
+"[ehiextens, version=6.1.*]"
+"[ehiitv, version=6.1.*]"
+"[ehiproxy, version=6.1.*]"
+"[ehitvmsmusic, version=6.1.*]"
+"[ehiupnp, version=6.1.*]"
+"[ehiuserxp, version=6.1.*]"
+"[ehividctl, version=6.1.*]"
+"[ehiwmp, version=6.1.*]"
+"[ehiwuapi, version=6.1.*]"
+"[ehrecobj, version=6.1.*]"
+"[ehshell, version=6.1.*]"
+"[eventviewer, version=6.1.*]"
+"[eventviewer.resources, version=6.1.*]"
+"[ieexecremote, version=2.0.*]"
+"[iehost, version=2.0.*]"
+"[iiehost, version=2.0.*]"
+"[interop.dfsrhelper, version=1.0.*]"
+"[isymwrapper, version=2.0.*]"
+"[loadmxf, version=6.1.*]"
+"[mcepg, version=6.1.*]"
+"[mcesidebarctrl, version=6.1.*]"
+"[mcglidhostobj, version=6.1.*]"
+"[mcplayerinterop, version=6.1.*]"
+"[mcstore, version=6.1.*]"
+"[mcstoredb, version=6.1.*]"
+"[mcupdate, version=6.1.*]"
+"[mcx2dvcs, version=6.1.*]"
+"[microsoft-windows-homegroupdiagnostic.netlistmgr.interop, version=6.1.*]"
+"[microsoft.applicationid.framework, version=6.1.*]"
+"[microsoft.applicationid.framework.resources, version=6.1.*]"
+"[microsoft.applicationid.rulewizard, version=6.1.*]"
+"[microsoft.applicationid.rulewizard.resources, version=6.1.*]"
+"[microsoft.backgroundintelligenttransfer.management, version=1.0.*]"
+"[microsoft.backgroundintelligenttransfer.management.resources, version=1.0.*]"
+"[microsoft.bestpractices, version=6.1.*]"
+"[microsoft.bestpractices.resources, version=6.1.*]"
+"[microsoft.build.conversion.v3.5, version=3.5.*]"
+"[microsoft.build.engine, version=2.0.*]"
+"[microsoft.build.engine, version=3.5.*]"
+"[microsoft.build.framework, version=2.0.*]"
+"[microsoft.build.framework, version=3.5.*]"
+"[microsoft.build.tasks, version=2.0.*]"
+"[microsoft.build.tasks.v3.5, version=3.5.*]"
+"[microsoft.build.utilities, version=2.0.*]"
+"[microsoft.build.utilities.v3.5, version=3.5.*]"
+"[microsoft.certificateservices.setup.interop, version=6.0.*]"
+"[microsoft.grouppolicy.admtmpleditor, version=6.1.*]"
+"[microsoft.grouppolicy.admtmpleditor.resources, version=6.1.*]"
+"[microsoft.grouppolicy.interop, version=2.0.*]"
+"[microsoft.grouppolicy.reporting, version=2.0.*]"
+"[microsoft.grouppolicy.reporting.resources, version=2.0.*]"
+"[microsoft.iis.powershell.framework, version=7.5.*]"
+"[microsoft.iis.powershell.framework.resources, version=7.5.*]"
+"[microsoft.iis.powershell.provider, version=7.5.*]"
+"[microsoft.iis.powershell.provider.resources, version=7.5.*]"
+"[microsoft.ink, version=1.0.*]"
+"[microsoft.ink, version=1.7.*]"
+"[microsoft.ink, version=6.1.*]"
+"[microsoft.ink.resources, version=6.1.*]"
+"[microsoft.interop.security.azroles, version=2.0.*]"
+"[microsoft.jscript, version=8.0.*]"
+"[microsoft.managementconsole, version=3.0.*]"
+"[microsoft.managementconsole.resources, version=3.0.*]"
+"[microsoft.mediacenter, version=6.1.*]"
+"[microsoft.mediacenter.bml, version=6.1.*]"
+"[microsoft.mediacenter.interop, version=6.1.*]"
+"[microsoft.mediacenter.itv, version=6.1.*]"
+"[microsoft.mediacenter.itv.hosting, version=6.1.*]"
+"[microsoft.mediacenter.itv.media, version=6.1.*]"
+"[microsoft.mediacenter.itvvm, version=6.1.*]"
+"[microsoft.mediacenter.mheg, version=6.1.*]"
+"[microsoft.mediacenter.playback, version=6.1.*]"
+"[microsoft.mediacenter.shell, version=6.1.*]"
+"[microsoft.mediacenter.sports, version=6.1.*]"
+"[microsoft.mediacenter.tv.tuners.interop, version=6.1.*]"
+"[microsoft.mediacenter.ui, version=6.1.*]"
+"[microsoft.powershell.commands.diagnostics, version=1.0.*]"
+"[microsoft.powershell.commands.diagnostics.resources, version=1.0.*]"
+"[microsoft.powershell.commands.management, version=1.0.*]"
+"[microsoft.powershell.commands.management.resources, version=1.0.*]"
+"[microsoft.powershell.commands.utility, version=1.0.*]"
+"[microsoft.powershell.commands.utility.resources, version=1.0.*]"
+"[microsoft.powershell.consolehost, version=1.0.*]"
+"[microsoft.powershell.consolehost.resources, version=1.0.*]"
+"[microsoft.powershell.editor, version=1.0.*]"
+"[microsoft.powershell.editor.resources, version=1.0.*]"
+"[microsoft.powershell.gpowershell, version=1.0.*]"
+"[microsoft.powershell.gpowershell.resources, version=1.0.*]"
+"[microsoft.powershell.graphicalhost, version=1.0.*]"
+"[microsoft.powershell.graphicalhost.resources, version=1.0.*]"
+"[microsoft.powershell.security, version=1.0.*]"
+"[microsoft.powershell.security.resources, version=1.0.*]"
+"[microsoft.security.applicationid.policymanagement.cmdlets, version=6.1.*]"
+"[microsoft.security.applicationid.policymanagement.cmdlets.resources, version=6.1.*]"
+"[microsoft.security.applicationid.policymanagement.policyengineapi.interop, version=6.1.*]"
+"[microsoft.security.applicationid.policymanagement.policymanager, version=6.1.*]"
+"[microsoft.security.applicationid.policymanagement.policymanager.resources, version=6.1.*]"
+"[microsoft.security.applicationid.policymanagement.policymodel, version=6.1.*]"
+"[microsoft.security.applicationid.policymanagement.policymodel.resources, version=6.1.*]"
+"[microsoft.security.applicationid.policymanagement.xmlhelper, version=6.1.*]"
+"[microsoft.security.applicationid.wizards.automaticrulegenerationwizard, version=6.1.*]"
+"[microsoft.security.applicationid.wizards.automaticrulegenerationwizard.resources, version=6.1.*]"
+"[microsoft.storage.nfscommon, version=1.0.*]"
+"[microsoft.storage.nfscommon.resources, version=1.0.*]"
+"[microsoft.storage.nfsobjectmodel, version=1.0.*]"
+"[microsoft.storage.nfsobjectmodel.resources, version=1.0.*]"
+"[microsoft.storage.sancommon, version=1.0.*]"
+"[microsoft.storage.sancommon.resources, version=1.0.*]"
+"[microsoft.storage.sancommon.ui, version=1.0.*]"
+"[microsoft.storage.sancommon.ui.resources, version=1.0.*]"
+"[microsoft.storage.vds, version=1.0.*]"
+"[microsoft.storage.vds.resources, version=1.0.*]"
+"[microsoft.tpm, version=6.1.*]"
+"[microsoft.tpm.resources, version=6.1.*]"
+"[microsoft.transactions.bridge, version=3.0.*]"
+"[microsoft.transactions.bridge.dtc, version=3.0.*]"
+"[microsoft.visualbasic, version=8.0.*]"
+"[microsoft.visualbasic.compatibility, version=8.0.*]"
+"[microsoft.visualbasic.compatibility.data, version=8.0.*]"
+"[microsoft.visualbasic.vsa, version=8.0.*]"
+"[microsoft.visualc, version=8.0.*]"
+"[microsoft.visualc.stlclr, version=1.0.*]"
+"[microsoft.vsa, version=8.0.*]"
+"[microsoft.vsa.vb.codedomprocessor, version=8.0.*]"
+"[microsoft.web.administration, version=7.0.*]"
+"[microsoft.web.administration.resources, version=7.0.*]"
+"[microsoft.web.management, version=7.0.*]"
+"[microsoft.web.management.aspnet, version=7.5.*]"
+"[microsoft.web.management.aspnet.resources, version=7.5.*]"
+"[microsoft.web.management.aspnetclient, version=7.5.*]"
+"[microsoft.web.management.aspnetclient.resources, version=7.5.*]"
+"[microsoft.web.management.ftp, version=7.5.*]"
+"[microsoft.web.management.ftp.resources, version=7.5.*]"
+"[microsoft.web.management.ftpclient, version=7.5.*]"
+"[microsoft.web.management.ftpclient.resources, version=7.5.*]"
+"[microsoft.web.management.iis, version=7.5.*]"
+"[microsoft.web.management.iis.resources, version=7.5.*]"
+"[microsoft.web.management.iisclient, version=7.5.*]"
+"[microsoft.web.management.iisclient.resources, version=7.5.*]"
+"[microsoft.web.management.remoting, version=7.0.*]"
+"[microsoft.web.management.remoting.resources, version=7.0.*]"
+"[microsoft.web.management.resources, version=7.0.*]"
+"[microsoft.web.management.webdav, version=7.5.*]"
+"[microsoft.web.management.webdav.resources, version=7.5.*]"
+"[microsoft.web.management.webdavclient, version=7.5.*]"
+"[microsoft.web.management.webdavclient.resources, version=7.5.*]"
+"[microsoft.windows.diagnosis.commands.getdiaginput, version=6.1.*]"
+"[microsoft.windows.diagnosis.commands.getdiaginput.resources, version=1.0.*]"
+"[microsoft.windows.diagnosis.commands.updatediagreport, version=6.1.*]"
+"[microsoft.windows.diagnosis.commands.updatediagreport.resources, version=1.0.*]"
+"[microsoft.windows.diagnosis.commands.updatediagrootcause, version=6.1.*]"
+"[microsoft.windows.diagnosis.commands.updatediagrootcause.resources, version=1.0.*]"
+"[microsoft.windows.diagnosis.commands.writediagprogress, version=6.1.*]"
+"[microsoft.windows.diagnosis.commands.writediagprogress.resources, version=1.0.*]"
+"[microsoft.windows.diagnosis.sdengine, version=6.1.*]"
+"[microsoft.windows.diagnosis.sdhost, version=6.1.*]"
+"[microsoft.windows.diagnosis.sdhost.resources, version=1.0.*]"
+"[microsoft.windows.diagnosis.troubleshootingpack, version=6.1.*]"
+"[microsoft.windows.diagnosis.troubleshootingpack.resources, version=6.1.*]"
+"[microsoft.windows.servermanager, version=6.1.*]"
+"[microsoft.windows.servermanager.powershell, version=6.1.*]"
+"[microsoft.windows.servermanager.powershell.resources, version=6.1.*]"
+"[microsoft.windows.servermanager.resources, version=6.1.*]"
+"[microsoft.wsman.management, version=1.0.*]"
+"[microsoft.wsman.management.resources, version=1.0.*]"
+"[microsoft.wsman.runtime, version=1.0.*]"
+"[microsoft_vsavb, version=8.0.*]"
+"[miguicontrols, version=1.0.*]"
+"[miguicontrols.resources, version=1.0.*]"
+"[mmcex, version=3.0.*]"
+"[mmcex.resources, version=3.0.*]"
+"[mmcfxcommon, version=3.0.*]"
+"[mmcfxcommon.resources, version=3.0.*]"
+"[msbuild, version=3.5.*]"
+"[mscorlib, version=2.0.*]"
+"[napcrypt, version=6.1.*]"
+"[naphlpr, version=6.1.*]"
+"[napinit, version=6.1.*]"
+"[napinit.resources, version=6.1.*]"
+"[napsnap, version=6.1.*]"
+"[napsnap.resources, version=6.1.*]"
+"[narrator, version=6.1.*]"
+"[nfsconfigguide, version=1.0.*]"
+"[nfsconfigguide.resources, version=1.0.*]"
+"[policy.1.0.microsoft.ink, version=6.1.*]"
+"[policy.1.0.microsoft.interop.security.azroles, version=6.1.*]"
+"[policy.1.2.microsoft.interop.security.azroles, version=6.1.*]"
+"[policy.1.7.microsoft.ink, version=6.1.*]"
+"[policy.6.0.microsoft.ink, version=6.1.*]"
+"[presentationbuildtasks, version=3.0.*]"
+"[presentationcffrasterizer, version=3.0.*]"
+"[presentationcore, version=3.0.*]"
+"[presentationfontcache, version=3.0.*]"
+"[presentationframework, version=3.0.*]"
+"[presentationframework.aero, version=3.0.*]"
+"[presentationframework.classic, version=3.0.*]"
+"[presentationframework.luna, version=3.0.*]"
+"[presentationframework.royale, version=3.0.*]"
+"[presentationui, version=3.0.*]"
+"[reachframework, version=3.0.*]"
+"[rmconfighelper, version=6.1.*]"
+"[rmconfighelper.resources, version=6.1.*]"
+"[securityauditpoliciessnapin, version=6.1.*]"
+"[securityauditpoliciessnapin.resources, version=6.1.*]"
+"[sentinel.v3.5client, version=3.5.*]"
+"[servermanagercmd.resources, version=6.1.*]"
+"[setupnfsidmap, version=1.0.*]"
+"[smdiagnostics, version=3.0.*]"
+"[smsvchost, version=3.0.*]"
+"[sonicmceburnengine, version=6.1.*]"
+"[srmlib, version=1.0.*]"
+"[srpuxsnapin, version=6.1.*]"
+"[srpuxsnapin.resources, version=6.1.*]"
+"[storagemgmt, version=1.0.*]"
+"[storagemgmt.resources, version=1.0.*]"
+"[sysglobl, version=2.0.*]"
+"[system, version=2.0.*]"
+"[system.addin, version=3.5.*]"
+"[system.addin.contract, version=2.0.*]"
+"[system.componentmodel.dataannotations, version=3.5.*]"
+"[system.configuration, version=2.0.*]"
+"[system.configuration.install, version=2.0.*]"
+"[system.core, version=3.5.*]"
+"[system.data, version=2.0.*]"
+"[system.data.datasetextensions, version=3.5.*]"
+"[system.data.entity, version=3.5.*]"
+"[system.data.entity.design, version=3.5.*]"
+"[system.data.linq, version=3.5.*]"
+"[system.data.oracleclient, version=2.0.*]"
+"[system.data.services, version=3.5.*]"
+"[system.data.services.client, version=3.5.*]"
+"[system.data.services.design, version=3.5.*]"
+"[system.data.sqlxml, version=2.0.*]"
+"[system.deployment, version=2.0.*]"
+"[system.design, version=2.0.*]"
+"[system.directoryservices, version=2.0.*]"
+"[system.directoryservices.accountmanagement, version=3.5.*]"
+"[system.directoryservices.protocols, version=2.0.*]"
+"[system.drawing, version=2.0.*]"
+"[system.drawing.design, version=2.0.*]"
+"[system.enterpriseservices, version=2.0.*]"
+"[system.identitymodel, version=3.0.*]"
+"[system.identitymodel.selectors, version=3.0.*]"
+"[system.io.log, version=3.0.*]"
+"[system.management, version=2.0.*]"
+"[system.management.automation, version=1.0.*]"
+"[system.management.automation.resources, version=1.0.*]"
+"[system.management.instrumentation, version=3.5.*]"
+"[system.messaging, version=2.0.*]"
+"[system.net, version=3.5.*]"
+"[system.printing, version=3.0.*]"
+"[system.runtime.remoting, version=2.0.*]"
+"[system.runtime.serialization, version=3.0.*]"
+"[system.runtime.serialization.formatters.soap, version=2.0.*]"
+"[system.security, version=2.0.*]"
+"[system.servicemodel, version=3.0.*]"
+"[system.servicemodel.install, version=3.0.*]"
+"[system.servicemodel.washosting, version=3.0.*]"
+"[system.servicemodel.web, version=3.5.*]"
+"[system.serviceprocess, version=2.0.*]"
+"[system.speech, version=3.0.*]"
+"[system.transactions, version=2.0.*]"
+"[system.web, version=2.0.*]"
+"[system.web.abstractions, version=3.5.*]"
+"[system.web.dynamicdata, version=3.5.*]"
+"[system.web.dynamicdata.design, version=3.5.*]"
+"[system.web.entity, version=3.5.*]"
+"[system.web.entity.design, version=3.5.*]"
+"[system.web.extensions, version=3.5.*]"
+"[system.web.extensions.design, version=3.5.*]"
+"[system.web.mobile, version=2.0.*]"
+"[system.web.regularexpressions, version=2.0.*]"
+"[system.web.routing, version=3.5.*]"
+"[system.web.services, version=2.0.*]"
+"[system.windows.forms, version=2.0.*]"
+"[system.windows.presentation, version=3.5.*]"
+"[system.workflow.activities, version=3.0.*]"
+"[system.workflow.componentmodel, version=3.0.*]"
+"[system.workflow.runtime, version=3.0.*]"
+"[system.workflowservices, version=3.5.*]"
+"[system.xml, version=2.0.*]"
+"[system.xml.linq, version=3.5.*]"
+"[taskscheduler, version=6.1.*]"
+"[taskscheduler.resources, version=6.1.*]"
+"[uiautomationclient, version=3.0.*]"
+"[uiautomationclientsideproviders, version=3.0.*]"
+"[uiautomationprovider, version=3.0.*]"
+"[uiautomationtypes, version=3.0.*]"
+"[windowsbase, version=3.0.*]"
+"[windowsformsintegration, version=3.0.*]"
+"[wsatconfig, version=3.0.*]"
+
+[User.File]
+"%AppData%\Microsoft\Search\* [*]"
+"%CSIDL_SENDTO% [compressed (zipped) folder.zfsendtotarget]"
+"%CSIDL_SENDTO% [desktop (create shortcut).desklink]"
+"%CSIDL_SENDTO% [desktop.ini]"
+"%CSIDL_SENDTO% [fax recipient.lnk]"
+"%CSIDL_SENDTO% [mail recipient.mapimail]"
+"%CSIDL_PROGRAMS%\accessories\accessibility [desktop.ini]"
+"%CSIDL_PROGRAMS%\accessories\accessibility [ease of access.lnk]"
+"%CSIDL_PROGRAMS%\accessories\accessibility [magnify.lnk]"
+"%CSIDL_PROGRAMS%\accessories\accessibility [narrator.lnk]"
+"%CSIDL_PROGRAMS%\accessories\accessibility [on-screen keyboard.lnk]"
+"%CSIDL_PROGRAMS%\accessories\accessibility [utility manager.lnk]"
+"%CSIDL_PROGRAMS%\accessories\communications [desktop.ini]"
+"%CSIDL_PROGRAMS%\accessories\communications [network connections.lnk]"
+"%CSIDL_PROGRAMS%\accessories\system tools [computer.lnk]"
+"%CSIDL_PROGRAMS%\accessories\system tools [control panel.lnk]"
+"%CSIDL_PROGRAMS%\accessories\system tools [desktop.ini]"
+"%CSIDL_PROGRAMS%\accessories\system tools [lock.lnk]"
+"%CSIDL_PROGRAMS%\accessories\system tools [log off.lnk]"
+"%CSIDL_PROGRAMS%\accessories\system tools [msdt.lnk]"
+"%CSIDL_PROGRAMS%\accessories\system tools [power.lnk]"
+"%CSIDL_PROGRAMS%\accessories\system tools [show desktop.lnk]"
+"%CSIDL_PROGRAMS%\accessories [desktop.ini]"
+"%CSIDL_PROGRAMS%\accessories [help.lnk]"
+"%CSIDL_PROGRAMS%\accessories [notepad.lnk]"
+"%CSIDL_PROGRAMS%\accessories [run.lnk]"
+"%CSIDL_PROGRAMS%\accessories [synchronize.lnk]"
+"%CSIDL_PROGRAMS%\accessories [windows explorer.lnk]"
+"%CSIDL_PROGRAMS%\maintenance [help.lnk]"
+"%CSIDL_PROGRAMS%\system tools [help.lnk]"
+"%CSIDL_PROGRAMS% [desktop.ini]"
+"%CSIDL_PROGRAMS% [set program access and defaults.lnk]"
+"%CSIDL_PROGRAMS% [turn uap settings on or off.lnk]"
+
+[User.Registry]
+"HKCU\Software\Microsoft\Windows\CurrentVersion\Run [Windows Media Center]"
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+erk9q
+.ei 
+.kibrq
+.i42.
+6ki
+.eki    q
+.erki   .
+bki.i24
+.5;kiq
+.9
+    .9
+     
+      erwk
+r
+lq 
+ rqwq
+rq
+rbqt
+
+eqt4
+qtnq
+exitwvrwq
+vd
+wqev
+    wv
+        wrv
+        eqrt
+        eqteq
+KeyErrorqrg
+qwrv
+wq
+raisewb
+    wrt
+    awrntea
+tryyet
+kyert;
+uye
+;
+w;rn;wqt;q  ;
+nwe
+twr
+NotImplementedty
+setyl
+ketl
+p;UnboundLocalErroryru
+ze6uy
+elseywr
+tryanwrt
+Warningerbwe
+try 
+
+
+    wbf
+    aeqf
+        qb
+f
+    wbf
+    finallyeqf
+qf
+w   
+    vbf 
+wbf
+    wfb
+        wfbelf
+                                                    __build_class__fiosld
+.fkios
+f.kiwea
+fkie
+gnkw
+egkin
+wrt
+,ikery,i
+type,tiky,
+__name__ KeyErrorlafkiw
+eqrik   ,b
+,kqrt,
+5kie6.
+,KIWtw
+eq fk
+ elrtowe
+ owe.
+rtowe
+.bool.rt
+WindowsError
+WindowsError
+(type) WindowsError = OSError
+
+Base class for I/O related errors. (type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.fkeb
+wkt
+werkt
+8wet,
+nwke
+t,ku,   w
+
+KeyboardInterruptwe,t9k
+wer,tniky.
+toe/
+yOWR; 
+whilery
+o98
+9
+869
+r57mi;s4
+6o9;hilwefltb
+ riolt>Il
+.   if.vibqwrEIK.
+brqkirtw
+.tki
+4wit.
+iwrk.t
+ikq
+.   ikb.
+iqe
+r.ikwe
+.brtkei
+tknweqitkn
+nweq.tnkiweq
+nkikit
+Q.
+ki
+q.nrkwt
+y.kriwy
+n.etkiy.
+kwer
+yn.weir
+ynkwi
+.ityn
+w.niy.
+IndexErroryiw.r
+y.nw
+iykw
+.t.l
+wn.twi
+.IndexError.rqirn
+.eqi
+.rtiwet
+.iwe
+n.tiwe
+.nti
+.weqktn
+erkit
+y.kier.
+ywri.w
+i.  qi.i.
+ibkqi.f eqi.fiqb.tikeqit.uiweqk.tukieq.rq
+ .
+    if.riq.3
+     bkiq.tik4wei6.
+     4wik.r br53i
+     .423it
+     .bqiwb
+     raisew64.i
+     hasattr.42i
+     635
+     ;9wqer 
+     leq9r
+     q89e
+     booqt;k9e3
+     ykie
+     r.yntrwki
+     ty.wri.triw
+     NotImplemented
+     yieldiwti
+      e0of\global.fkiwe
+      ,tikwer,
+      tmuwe
+      ,typewe-typepw0rtwrt=w-t0w.l0etweuj
+      twetpweokm qwfjmq wr.,r4w6t0w406t4-wp' .tiw4eol0.523kiw
+      .rt e,rwujet
+     ,i3k4w,
+     63ki4
+     kQ
+     BK4R,T
+     34WU
+     TE.RKT.ERKIYN
+     KIETY
+     EITKY
+     IE,TYKE,TYKIET
+     Y,IKET,KIETY,IETY,
+ET,IYIET
+YE,TIY
+ETIYK
+EKITY,IEKTY,ET,I,YEITY
+,TEIY
+,IsADirectoryError RIEKR 
+IKAE
+RTFWET
+KIWRT
+NWRKITNIWRKYN
+,ERIKY
+,ERKI
+YN,ERKIY
+,ARWIK
+NTKIW3AN
+KeyboardInterruptYIKER
+Y,NotADirectoryError,N3KWI
+TYNKIEA5Y,
+IK
+,Iqk,
+ 3IKQ
+RI QIRW,
+v(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.
+ Ellipsis,EIK,
+IWQKT
+,NWIEKT
+NIWE
+TIWE,
+TINW
+ERTINWE,RuntimeWarning,TQIEK F
+quitFQE
+Q
+exitWERJT
+RWT
+WindowsErrorTQE
+ROQW .RTIWE
+,TUKIWE
+,RUWQ UQ,RuntimeWarning,RuntimeWarningU
+ ,U
+,EQUTUNTWRTW
+ETNW
+RuntimeWarningKWRNEYTK,A
+NRT
+WarningKTN
+WRYT
+RuntimeWarningW
+NTWQ
+TNWKET
+NWT
+NWE
+TNWERTNW
+RuntimeWarningWE
+TNWR
+UnicodeTranslateErrorTN
+IWRTIN
+WarningWRIT
+NWIR
+TWR
+TW
+TWR
+NotADirectoryErrorRWN
+EY
+KeyErrorYAW
+ERTQ
+VRQ
+memoryview;RY
+IsADirectoryErrorKUETSBG
+AWR
+GeneratorExitMYET
+WE
+binwtk
+ry
+rtukyi
+LookupErrortywr
+tmjwr
+tjwe
+yieldyl
+tey
+exitjteqrh
+ulyti
+;yio
+filteruyse
+jyse
+KeyErroryrl
+uy
+e(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.(type) WindowsError = OSError
+
+Base class for I/O related errors.
+ .tiew
+tkiweq
+rik 
+w,KeyboardInterruptb35,349web
+rt9eq
+br9qe
+r9eq
+rk
+    q9r
+binqk
+.rk 9w
+brk9
+wqrkb
+.eq
+r.kieq
+r.beq
+kr. wki.br
+kiwt 
+,y.roetyawert
+NotADirectoryErrorwrs
+typeytmwr
+yww
+jtrw
+twr
+jt42
+j6
+3a5
+ybtawrg
+wr
+n;'g
+wr;wg
+rk,tw
+.9
+ebkitKIe,
+rki
+    w,UnboundLocalErrorkiet
+,wrt
+iruw
+,tnirwtn
+,iwrkt
+,kriw
+twki
+r.kiw .qirf
+webit
+RuntimeWarningt,riwt
+iw,r
+tki
+w,
+nriweqt
+kiwr
+tiwrkt
+ikwe
+,6nw49
+64w0506
+9
+wrk9 t
+,Warningk,uiky
+,wru
+tK<b
+46
+9WRy
+ ryety
+returni
+y;oryiild
+5ru
+srk
+asze
+ry      
+
+ wreq
+r   
+
+ ry
+ kl
+ yulryu
+6
+l86sd'
+ypawrgb
+qio
+.quit.irwk.t
+ik
+wrtkiwr
+ktinwR
+writnwir
+ntwqe,
+rutq
+,tnikwr,t
+rukiwt
+,
+,.aequt
+ ,wequkt
+ ,euqb
+ nt,u4eq
+ nt,ukeq
+ notn,equ
+ ,rquv
+  ruw,exitr,(type) WindowsError = OSError
+
+Base class for I/O related errors.'
+
+
