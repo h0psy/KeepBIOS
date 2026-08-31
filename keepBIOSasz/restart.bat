@@ -1,0 +1,1 @@
+shutdown -r -t 15 -c "The PC will be restarted after 15 sec"
